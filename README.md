@@ -1,6 +1,6 @@
 <h1>ServiceNow: IT Support Operations Guide</h1>
 <h2>Description</h2>
-This report provides a practical guide to using ServiceNow for IT Support, covering key functions such as Incident Management, Request Fulfilment, Knowledge Management, and Basic Reporting. It demonstrates how to streamline IT operations and improve service delivery within an organisation.
+This project of mine provides a practical guide to using ServiceNow for IT Support, covering key functions such as Incident Management, Request Fulfilment, Knowledge Management, and Basic Reporting. It demonstrates how to streamline IT operations and improve service delivery within an organisation.
 <br />
 <br />
 ☝️ For the FULL guide on, you can view the PDF in the repository.
